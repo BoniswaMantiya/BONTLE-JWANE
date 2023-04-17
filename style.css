@@ -1,0 +1,175 @@
+#B1{
+    width: 300px;
+}
+.carousel-inner{
+    width: 1350px;
+    height: 590px;
+}
+#body{
+    background-image: url('Beauty1.jpg') none repeating-linear-gradient();
+    background-size: cover;
+    background-position: center;
+width: 100%;
+height: 100%;
+}
+h1{
+    position: relative; top: -400px; left:250px ;
+}
+p{
+    position: relative; top: -400px; left: -250px;
+}
+
+#about {
+    background-color: #ec57a1;
+    padding: 50px 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    position: relative; top: -10px; left: -200px;
+
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    position: relative; top: -0px; left: -200px;
+  }
+
+
+  
+  footer {
+  background-color: #e0639d;
+  padding: 20px;
+  text-align: center;
+  position: relative;bottom: -0px; left:-00px ;
+  
+  
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+p {
+  margin: 0;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  text-decoration-color: black;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  
+}
+
+textarea {
+  height: 150px;
+}
+
+button {
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0062cc;
+}
+
+h3{
+  position: relative; top: -0px; left: 500px;
+  text-decoration-color: black;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* header styles */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+/* nav styles */
+nav {
+  background-color: #ccc;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+nav li a {
+  color: #333;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  text-decoration: underline;
+}
+
+/* main styles */
+main {
+  padding: 1rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h4 {
+  margin-top: 0;
+}
+
+/* footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
